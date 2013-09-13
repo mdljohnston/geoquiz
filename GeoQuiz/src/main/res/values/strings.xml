@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Geo Quiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="question_text">Melbourne is the capitol of Victoria?</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="question1">Melbourne is the capitol of Victoria</string>
+    <string name="question2">Earth has one moon</string>
+    <string name="question3">The Pacific ocean is East of the U.S</string>
+    <string name="question4">The Atlantic is South of Africa</string>
+
+</resources>
